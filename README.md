@@ -1,1 +1,1 @@
-# discord_location_bot
+# discord location bot
